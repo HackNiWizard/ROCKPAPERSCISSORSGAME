@@ -1,2 +1,2 @@
-# ROCKPAPERSCISSORSGAME
+# RockPaperScissorsGame
 Python
